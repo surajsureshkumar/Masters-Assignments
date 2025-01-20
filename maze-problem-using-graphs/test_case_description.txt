@@ -1,0 +1,15 @@
+test1.txt
+Description-
+The person dropped off in the maze can escape from the first column.
+
+--------------------------------------------------------------------------------
+
+test2.txt
+Description-
+The escape point is blocked off by stones and the user will keep moving inside the maze.
+--------------------------------------------------------------------------------
+
+test3.txt
+Description
+The entire maze is filled with stones and the user has one node where the user will be dropped off and will not
+be able to move anywhere
