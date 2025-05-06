@@ -1,3 +1,5 @@
+Coursework homework/assignments for Computational Problem Sovling
+
 ### skyscrapers.py
 - Validates a Skyscraper puzzle configuration based on standard puzzle rules.
 - Reads puzzle size, clues, and matrix layout from a structured text file.
